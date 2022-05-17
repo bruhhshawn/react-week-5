@@ -12,6 +12,7 @@ export default function App() {
           <a href="https://github.com/bruhhshawn/react-week-5">
             open sourced on github.
           </a>
+          and <a href="https://www.netlify.com/">hosted on Netlify</a>
         </footer>
       </div>
     </div>
