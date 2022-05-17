@@ -8,7 +8,7 @@ export default function App() {
         <h1>Weather App</h1>
         <Weather defaultCity="New York" />
         <footer>
-          This project is created by Bruhhshawn and is{" "}
+          This project is created by Sara and is{" "}
           <a href="https://github.com/bruhhshawn/react-week-5">
             open sourced on github.
           </a>
